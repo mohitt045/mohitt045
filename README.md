@@ -1,25 +1,29 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">A passionate learner and developer from India</h3>
+<h3 align="center">Aspiring Data Scientist & Machine Learning Enthusiast</h3>
 
 ---
 
-### 🔥 About Me
-- 🌱 I’m currently learning **Python, SQL, Web Development**
-- 💡 I love building simple projects that solve real problems
-- 💬 Ask me about **Python, HTML, CSS, SQL**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: *I break code so I can fix it better 😄*
+### 🔍 About Me  
+- 📘 I’m currently learning **Data Science & Machine Learning**  
+- 🔢 Interested in **Python, SQL, ML Models, Data Visualization**  
+- 🧠 Exploring **Pandas, NumPy, Scikit-Learn, Matplotlib**  
+- 💡 I love solving problems using data  
+- 📫 Reach me at: **46.mr.mohit@gmail.com**  
 
 ---
 
-### 🚀 Languages & Tools
+### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,github,git,vscode,html,css" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20Numpy%20%7C%20Matplotlib%20%7C%20Sklearn-blue" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
 </p>
@@ -34,27 +38,29 @@
 
 ---
 
-### 🌐 Connect With Me
+### 📂 Projects I'm Working On
+- 📊 **Data Analysis Projects** (Pandas + NumPy)
+- 🤖 **Machine Learning Models**
+- 📈 **Visualization Dashboards** (Matplotlib/Seaborn)
+- 🧮 **Small ML Apps using Flask**
+
+---
+
+### 🌐 Let's Connect  
 <p>
 <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
 
-### 🧩 Fun Widgets
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1" />
-</p>
-
----
-
-### ✨ Quote of the Day
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+### 💡 Quote  
+> _"Data is the new oil, but analytics is the combustion engine."_
 
 ---
 
