@@ -8,7 +8,7 @@
 - 🔢 Interested in **Python, SQL, ML Models, Data Visualization**  
 - 🧠 Exploring **Pandas, NumPy, Scikit-Learn, Matplotlib**  
 - 💡 I love solving problems using data.fhhhhghhhhb
-- 📫 Reach me at: **46.mr.mohit@gmail.com**  ggvn
+- 📫 Reach me at: **46.mr.mohit@gmail.com**  ggvnb
 
 ---
 
