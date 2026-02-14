@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohit</h1>
+s<h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Aspiring Data Scientist & Machine Learning Enthusiast</h3>
 
 ---
@@ -7,7 +7,7 @@
 - 📘 I’m currently learning **Data Science & Machine Learning**  
 - 🔢 Interested in **Python, SQL, ML Models, Data Visualization**  
 - 🧠 Exploring **Pandas, NumPy, Scikit-Learn, Matplotlib**  
-- 💡 I love solving problems using data.fhhhhghhhhbssdd
+- 💡 I love solving problems using data.fhhhhghhhhbssdds
 - 📫 Reach me at: **46.mr.mohit@gmail.com**  ggvnb
 
 ---
