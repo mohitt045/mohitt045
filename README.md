@@ -6,7 +6,7 @@
 ### 🔍 About Me  
 - 📘 I’m currently learning **Data Science & Machine Learning**  
 - 🔢 Interested in **Python, SQL, ML Models, Data Visualization**  
-- 🧠 Exploring **Pandas, NumPy, Scikit-Learn, Matplotlib**  
+- 🧠 Exploring **Pandas, NumPy, Scikit-Learn, Matplotlib**h  
 - 💡 I love solving problems using data.esdddd
 - 📫 Reach me at: **46.mr.mohit@gmail.com** ssssss
 
